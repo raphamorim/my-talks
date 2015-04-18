@@ -13,6 +13,9 @@ Oh! You can find all information about my talks [here](http://raphamorim.com/tal
 - Playground with Canvas
 - Hello, my name is React
 - Maintainable JavaScript
+- Confissões de um contribuidor
+- Gitflow: Workshop
+- Explorando as apis do HTML5
 
 ## License
 
