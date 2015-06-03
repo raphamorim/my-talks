@@ -1,6 +1,6 @@
 # My talks
 
-> Yes, even my slides are open source muahahaha **laughting more**
+> Yes, even my slides are open :)
 
 These are my slides of talks I've ever done. If you want to fix something or add some information feel free.
 
