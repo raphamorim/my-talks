@@ -11,7 +11,7 @@ Oh! You can find all information about my talks [here](http://raphamorim.com/tal
 ## Talks
 
 - Playground with Canvas
-- Hello, my name is React
+- Meet React
 - Maintainable JavaScript
 - Confissões de um contribuidor
 - Gitflow: Workshop
